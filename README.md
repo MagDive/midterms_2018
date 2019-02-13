@@ -20,7 +20,7 @@ The data for contributions to candidate commitees is from:
 
 I have provided code to download, unzip and merge the candidate data with the individual contributions data.
 
-The processing of this data is resource intensive due to the size of the files.  This can be worked around by eliminating fields prior to reading into Pandas.  The download and merging of the files should need to be performed only once since the notebook creates a smaller file called `transactions.csv` which can be loaded into Pandas in future sessions. `zip_codes.csv` is the geolocations of each zip code in the United States.
+The processing of this data is resource intensive due to the size of the files.  This can be worked around by eliminating fields prior to reading into Pandas.  The download and merging of the files should need to be performed only once since the notebook creates a smaller file called `transactions.csv` which can be loaded into Pandas in future sessions. `zip_codes.csv` are the geolocations of each zip code in the United States.
 
 The notebook trys to answer a few question:
 
