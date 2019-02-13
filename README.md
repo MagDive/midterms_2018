@@ -1,5 +1,5 @@
 # midterms_2018
-###Analysis of the 2018 Midterm Election Contributions by Individuals
+### Analysis of the 2018 Midterm Election Contributions by Individuals
 
 
 
