@@ -14,8 +14,8 @@ The data for contributions to candidate commitees is from:
 <https://www.fec.gov/files/bulk-downloads/2018/indiv18.zip>
 
 ### The descriptions of the data fields can be found at:
-
 <https://classic.fec.gov/finance/disclosure/metadata/DataDictionaryCandidateMaster.shtml>
+
 <https://www.fec.gov/campaign-finance-data/contributions-individuals-file-description>
 
 I have provided code to download, unzip and merge the candidate data with the individual contributions data.
